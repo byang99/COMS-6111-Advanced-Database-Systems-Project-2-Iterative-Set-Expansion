@@ -1,14 +1,5 @@
-C:\Users\kaany\Desktop\Columbia\Spring 2021\Advanced DB\Projects\Project 1\SpanBERT>python IterativeSetExpansion.py AIzaSyAbUyFNJp6VrdunILLcN-OecO0K7_ZH1OU b305c2cc7c4272302 4 0.7 "bill gates microsoft" 10
 Loading pre-trained spanBERT from ./pretrained_spanbert
-___________
-Parameters:
-Client Key       =  AIzaSyAbUyFNJp6VrdunILLcN-OecO0K7_ZH1OU
-Engine Key       =  b305c2cc7c4272302
-Relation         =  org:top_members/employees
-Threshold        =  0.7
-Query            =  bill gates microsoft
-# of Tuples      =  10
-Loading necessary libraries; This should take a minute or so ...)
+
 =========== Iteration: 0 - Query: bill gates microsoft ===========
 
 
