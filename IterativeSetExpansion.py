@@ -445,9 +445,6 @@ def main():
               '<seed query> <number of tuples to output>')
         exit(1)
 
-    # API Key: AIzaSyAbUyFNJp6VrdunILLcN-OecO0K7_ZH1OU
-    # Search engine ID: b305c2cc7c4272302
-
     google_api_key = sys.argv[1]  # Google Custom Search Engine JSON API key
     search_engine_id = sys.argv[2]  # Google Engine ID
 
@@ -464,8 +461,6 @@ def main():
 
     k = int(sys.argv[6])  # number of tuples that we request in the output
     '''
-    google_api_key = 'AIzaSyAgJ1HuBv8EeTQ6jRvZVryrwwGFYXKbFfE'
-    search_engine_id = 'b305c2cc7c4272302'
     r = 4
     t = 0.7
     q = 'bill gates microsoft'
